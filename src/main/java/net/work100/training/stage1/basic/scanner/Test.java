@@ -8,6 +8,7 @@ import java.util.Scanner;
  *
  * @author liuxiaojun
  * @date 2020-02-04 15:05
+ * @url http://www.work100.net/training/java-scanner.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-04   liuxiaojun     初始创建

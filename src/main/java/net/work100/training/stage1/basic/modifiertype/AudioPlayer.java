@@ -6,6 +6,7 @@ package net.work100.training.stage1.basic.modifiertype;
  *
  * @author liuxiaojun
  * @date 2020-02-02 16:11
+ * @url http://www.work100.net/training/java-modifier-type.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-02   liuxiaojun     初始创建

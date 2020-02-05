@@ -6,6 +6,7 @@ package net.work100.training.stage1.basic.switchcase;
  *
  * @author liuxiaojun
  * @date 2020-02-02 17:19
+ * @url http://www.work100.net/training/java-switch-case.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-02   liuxiaojun     初始创建

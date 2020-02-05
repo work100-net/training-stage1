@@ -6,6 +6,7 @@ package net.work100.training.stage1.basic.objectandclass;
  *
  * @author liuxiaojun
  * @date 2020-02-02 14:41
+ * @url http://www.work100.net/training/java-object-class.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-02   liuxiaojun     初始创建

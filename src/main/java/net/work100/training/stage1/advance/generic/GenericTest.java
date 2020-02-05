@@ -9,6 +9,7 @@ import java.util.List;
  *
  * @author liuxiaojun
  * @date 2020-02-04 19:31
+ * @url http://www.work100.net/training/java-generic.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-04   liuxiaojun     初始创建
