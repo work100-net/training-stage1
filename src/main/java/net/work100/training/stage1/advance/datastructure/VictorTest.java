@@ -18,7 +18,7 @@ import java.util.Vector;
  */
 public class VictorTest {
     public static void main(String[] args) {
-        Vector<Integer> v1 = new Vector<>();
+        Vector<Integer> v1 = new Vector<Integer>();
 
         v1.addElement(new Integer(1));
         v1.add(1, new Integer(20));
@@ -27,8 +27,8 @@ public class VictorTest {
         System.out.println(v1.get(1));
         System.out.println("------------------------");
 
-        Vector<String> v2 = new Vector<>();
-        List<String> list = new ArrayList<>();
+        Vector<String> v2 = new Vector<String>();
+        List<String> list = new ArrayList<String>();
         list.add("aaa");
         list.add("bbb");
         list.add("ccc");
