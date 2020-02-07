@@ -4,7 +4,7 @@
    http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>net.work100</groupId>
+    <groupId>net.work100.training.stage1</groupId>
     <artifactId>training-stage1</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
