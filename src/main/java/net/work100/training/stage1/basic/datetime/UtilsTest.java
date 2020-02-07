@@ -3,10 +3,10 @@ package net.work100.training.stage1.basic.datetime;
 /**
  * <p>Title: UtilsTest</p>
  * <p>Description: </p>
+ * <p>Url: http://www.work100.net/training/java-date-time.html</p>
  *
  * @author liuxiaojun
  * @date 2020-02-02 20:30
- * @url http://www.work100.net/training/java-date-time.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-02   liuxiaojun     初始创建

@@ -5,10 +5,10 @@ import java.util.regex.*;
 /**
  * <p>Title: Test</p>
  * <p>Description: </p>
+ * <p>Url: http://www.work100.net/training/java-regular-expression.html</p>
  *
  * @author liuxiaojun
  * @date 2020-02-02 21:16
- * @url http://www.work100.net/training/java-regular-expression.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-02   liuxiaojun     初始创建

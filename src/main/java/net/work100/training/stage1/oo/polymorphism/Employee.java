@@ -3,10 +3,10 @@ package net.work100.training.stage1.oo.polymorphism;
 /**
  * <p>Title: Employee</p>
  * <p>Description: </p>
+ * <p>Url: http://www.work100.net/training/java-polymorphism.html</p>
  *
  * @author liuxiaojun
  * @date 2020-02-04 16:46
- * @url http://www.work100.net/training/java-polymorphism.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-04   liuxiaojun     初始创建

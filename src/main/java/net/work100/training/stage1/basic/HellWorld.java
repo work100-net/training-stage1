@@ -3,6 +3,7 @@ package net.work100.training.stage1.basic;
 /**
  * <p>Title: HellWorld</p>
  * <p>Description: </p>
+ * <p>Url: http://www.work100.net/training/java</p>
  *
  * @author liuxiaojun
  * @date 2020-02-02 12:23

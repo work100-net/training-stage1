@@ -7,10 +7,10 @@ import java.util.Properties;
 /**
  * <p>Title: PropertiesTest</p>
  * <p>Description: </p>
+ * <p>Url: http://www.work100.net/training/java-data-structure.html</p>
  *
  * @author liuxiaojun
  * @date 2020-02-04 21:13
- * @url http://www.work100.net/training/java-data-structure.html
  * ------------------- History -------------------
  * <date>      <author>       <desc>
  * 2020-02-04   liuxiaojun     初始创建
